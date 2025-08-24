@@ -1,4 +1,13 @@
 # linux-shell-labs
+
+[![license](https://img.shields.io/github/license/Scorpi-ON/linux-shell-labs)](https://opensource.org/licenses/MIT)
+[![release](https://img.shields.io/github/v/release/Scorpi-ON/linux-shell-labs?include_prereleases)](https://github.com/Scorpi-ON/linux-shell-labs/releases)
+[![downloads](https://img.shields.io/github/downloads/Scorpi-ON/linux-shell-labs/total)](https://github.com/Scorpi-ON/linux-shell-labs/releases)
+[![code size](https://img.shields.io/github/languages/code-size/Scorpi-ON/linux-shell-labs.svg)](https://github.com/Scorpi-ON/linux-shell-labs)
+
+[![ShellCheck](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/shellcheck.yaml)
+[![CodeQL (GH Actions)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/codeql.yaml/badge.svg)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/codeql.yaml)
+
 Набор лабораторных работ по операционным системам, представляющих собой скрипты Linux Shell различной сложности
 
 <h2>Простые команды</h2>
