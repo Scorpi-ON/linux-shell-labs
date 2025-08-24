@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 . ./tools.sh
 
 actions=(searchTheSame createFolders clearDirs)

@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 . ./tools.sh
 
 actions=(sizeDifference analyzeProcessCountChanging listNewProcesses)
