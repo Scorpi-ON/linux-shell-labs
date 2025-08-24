@@ -8,7 +8,11 @@
 [![ShellCheck](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/shellcheck.yaml)
 [![CodeQL (GH Actions)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/codeql.yaml/badge.svg)](https://github.com/Scorpi-ON/linux-shell-labs/actions/workflows/codeql.yaml)
 
-Набор лабораторных работ по операционным системам, представляющих собой скрипты Linux Shell различной сложности
+Набор лабораторных работ по операционным системам, представляющих собой скрипты Linux Shell различной сложности.
+
+## Особенности реализации
+- Интегрирован ShellCheck для статического анализа скриптов
+- Модульная структура для удобного выполнения других вариантов работ
 
 ## Простые команды
 
